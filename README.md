@@ -5,7 +5,7 @@ Create a MPU (300px by 250px) web banner. The duration of the banner is limited 
 
 ## Demo
 
-* The demo is available at 
+* The demo is available at https://rafmosiolek.github.io/MPU-Web-Banner-SKYTEST/
 
 ## Built With
 
