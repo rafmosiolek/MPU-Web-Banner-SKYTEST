@@ -1,7 +1,4 @@
-# HTML5 Junior Test
-
-Create a MPU (300px by 250px) web banner. The duration of the banner is limited to 15 seconds. You are not required to build an object oriented solution. The simpler you make the programming, the easier it will be to complete the task.
-
+A MPU (300px by 250px) web banner. The duration of the banner is limited to 15 seconds.
 
 ## Demo
 
@@ -52,6 +49,3 @@ expect(background).toImageDiffEqual(backgroundMatcher); // imagediff expects Ima
 });
 
 ```
-
-* I wasn't sure if the mask added on a call to action ("Find out more") button should be a shape of the expected animated white blurred sheen or just a 3D effect. Therefore, I animated blurred sheen over a whole button. If this wasn't designers' original idea, I could have created sprite sheet file in a shape of provided mask.
-
